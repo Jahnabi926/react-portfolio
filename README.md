@@ -71,7 +71,7 @@ The app will run locally at [http://localhost:3000].
 
 ## Live Demo
 
-- Check out the live version of the portfolio [here].
+- Check out the live version of the portfolio [here](https://jahnabi-react-portfolio.vercel.app/).
 
 ## Contact
 
